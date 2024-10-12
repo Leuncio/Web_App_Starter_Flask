@@ -1,0 +1,17 @@
+<!-- index.html -->
+
+{% include "header.html" %}
+{% from 'bootstrap5/form.html' import render_form %}
+
+
+<h1>Home</h1>
+
+
+{{ form.csrf_token() }} 
+{{ form.hidden_tag() }} 
+{{ render_form(form) }}
+
+
+
+
+{% include "footer.html" %}

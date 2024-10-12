@@ -1,0 +1,74 @@
+.btn-primary {
+    background-color: #FF204E; /* Example: Orange background */
+    border-color: #FF204E; /* Orange border */
+}
+
+.btn-primary:hover {
+    background-color: #FF204E; /* Darker orange on hover */
+    border-color: #FF204E;
+}
+
+/* Mudar o botão "Sign up for free" que usa .btn-outline-primary */
+.btn-outline-primary {
+    color: #FF204E; /* Cor do texto */
+    border-color: #FF204E; /* Cor da borda */
+}
+
+.btn-outline-primary:hover {
+    background-color: #FF204E; /* Cor de fundo ao passar o mouse */
+    color: white; /* Cor do texto ao passar o mouse */
+    border-color: #FF204E; /* Cor da borda ao passar o mouse */
+}
+
+/* Mudar o botão "Enterprise" que usa .btn-primary */
+.btn-primary {
+    background-color: #FF204E; /* Cor de fundo personalizada (laranja) */
+    border-color: #FF204E; /* Cor da borda personalizada (laranja) */
+}
+
+.btn-primary:hover {
+    background-color: #FF204E; /* Cor de fundo mais escura ao passar o mouse */
+    border-color: #FF204E; /* Cor da borda mais escura ao passar o mouse */
+}
+
+.enterprise-header {
+    background-color: #FF204E; /* Cor de fundo da header (laranja) */
+    color: white; /* Cor do texto */
+    border-color: #FF204E; /* Borda personalizada */
+}
+
+/* Borda e fundo para o body do card Enterprise */
+.enterprise-body {
+    border-color: #FF204E; /* Cor da borda (laranja) */
+}
+
+.enterprise-body button {
+    background-color: #FF204E; /* Cor de fundo do botão */
+    border-color: #FF204E;
+}
+
+.enterprise-body button:hover {
+    background-color: #FF204E; /* Cor mais escura no hover */
+    border-color: #FF204E;
+}
+
+/* Borda e fundo para o card Enterprise */
+.enterprise-body {
+    border-color: #FF204E !important; /* Cor de borda personalizada (laranja) */
+}
+
+.enterprise-header {
+    background-color: #FF204E;
+    color: white;
+    border-color: #FF204E;
+}
+
+.enterprise-body button {
+    background-color: #FF204E;
+    border-color: #FF204E;
+}
+
+.enterprise-body button:hover {
+    background-color: #FF204E;
+    border-color: #FF204E;
+}
