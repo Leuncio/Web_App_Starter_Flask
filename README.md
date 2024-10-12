@@ -1,4 +1,4 @@
-# Web-App-Starter-Flask-
+# Web App Starter (Flask)
 This repository serves as a foundational template for developing web applications using Flask, a popular Python web framework. It provides a structured setup that includes essential components such as routing, templates, and database integration, making it easy for developers to kickstart their projects. Additionally, it is configured to use Bootstrap, allowing for responsive and visually appealing designs. Whether you're building a small web app or a more complex application, this starter kit offers a solid foundation to streamline your development process.
 
 Features
